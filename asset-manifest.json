@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/new-portfolio/static/css/main.88548280.chunk.css",
+    "main.css": "/new-portfolio/static/css/main.34a0dc64.chunk.css",
     "main.js": "/new-portfolio/static/js/main.a5387885.chunk.js",
     "main.js.map": "/new-portfolio/static/js/main.a5387885.chunk.js.map",
     "runtime-main.js": "/new-portfolio/static/js/runtime-main.16d9e4e0.js",
@@ -8,7 +8,7 @@
     "static/js/2.986b6477.chunk.js": "/new-portfolio/static/js/2.986b6477.chunk.js",
     "static/js/2.986b6477.chunk.js.map": "/new-portfolio/static/js/2.986b6477.chunk.js.map",
     "index.html": "/new-portfolio/index.html",
-    "static/css/main.88548280.chunk.css.map": "/new-portfolio/static/css/main.88548280.chunk.css.map",
+    "static/css/main.34a0dc64.chunk.css.map": "/new-portfolio/static/css/main.34a0dc64.chunk.css.map",
     "static/js/2.986b6477.chunk.js.LICENSE.txt": "/new-portfolio/static/js/2.986b6477.chunk.js.LICENSE.txt",
     "static/media/doobStore.653f0169.png": "/new-portfolio/static/media/doobStore.653f0169.png",
     "static/media/kasperNew.1e358294.png": "/new-portfolio/static/media/kasperNew.1e358294.png",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.16d9e4e0.js",
     "static/js/2.986b6477.chunk.js",
-    "static/css/main.88548280.chunk.css",
+    "static/css/main.34a0dc64.chunk.css",
     "static/js/main.a5387885.chunk.js"
   ]
 }
